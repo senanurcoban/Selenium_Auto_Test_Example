@@ -31,5 +31,8 @@ public class Test2 {
 		}else {
 			System.out.println("Chechkbox is unchecked!");
 		}
+		
+		
+		
 	}
 }
