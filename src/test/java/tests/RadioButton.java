@@ -10,7 +10,7 @@ public class RadioButton {
 
 public static void main(String [] args) {
 		
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\ASUS\\Desktop\\webdriver\\chromedriver-win64\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","drivers/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://demoqa.com/radio-button");
 		
